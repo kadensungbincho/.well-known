@@ -1,11 +1,9 @@
 {
   "applinks": {
-    "apps": [],
-    "details": [
-    {
-      "appID": "XXXXXXXXXX.com.example.UniveralLinks",
-      "paths": ["*"]
-    }
-    ]
-  }
+      "details": [
+           {
+             "appIDs": [ "mobile.kadensungbincho.github.io" ]
+           } 
+       ]
+   }
 }
